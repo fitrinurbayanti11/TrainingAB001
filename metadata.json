@@ -1,0 +1,6 @@
+{
+  "name": "Klinik Aborsi Raden Saleh",
+  "description": "Layanan konsultasi dan tindakan medis dengan tenaga profesional, fasilitas modern, serta menjaga privasi pasien secara maksimal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
